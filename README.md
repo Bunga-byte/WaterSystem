@@ -34,3 +34,6 @@ The Arduino code is written to control the system based on the input from the se
 
 You can find the Arduino sketch in the `WaterSystem.ino` directory
 
+## Video
+Here is a [video](https://drive.google.com/file/d/1aWCkHGDg7OymMFE-zLW9jyF3tiIi7DXy/view?usp=sharing) showing the system working!
+
